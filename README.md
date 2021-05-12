@@ -1,2 +1,3 @@
-# DataStructure_Python
-Data Structure and Algorithm using Python
+# Data Structure & Algorithm - Python
+1. Array
+2. Linked List
