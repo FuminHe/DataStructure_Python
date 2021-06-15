@@ -6,4 +6,4 @@
 1. enumerate()
 2. list,tuple,set,dictionary
 3. lambda,filter,reudce,map
-4. list[::-1]
+4. list[::-1] = list.reverse()
